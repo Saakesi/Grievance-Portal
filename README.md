@@ -1,6 +1,6 @@
-# 🛡️ ResolveNow – Grievance Management Portal
+# 🛡️ GrievanceHub – Grievance Management Portal
 
-**ResolveNow** is a secure, full-stack grievance management platform that enables users to submit complaints, track their status, and ensures timely resolution through an admin-controlled workflow.
+**GrievanceHub** is a secure, full-stack grievance management platform that enables users to submit complaints, track their status, and ensures timely resolution through an admin-controlled workflow.
 
 The system is designed to model **real-world government and enterprise grievance portals**, focusing on accountability, transparency, and efficient issue resolution.
 
