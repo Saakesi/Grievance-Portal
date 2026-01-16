@@ -17,7 +17,7 @@ const Navbar = () => {
     <nav className="bg-blue-600 text-white px-6 py-3 flex justify-between items-center shadow-md">
       {/* Logo / Brand */}
       <Link to="/" className="text-xl font-bold tracking-wide">
-        📝 Grievance Portal
+        GrievanceHub
       </Link>
 
       {/* Navigation Links */}
